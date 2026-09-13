@@ -1,0 +1,59 @@
+{
+    "background_color": "#dc7891",
+    "categories": [
+        "entertainment",
+        "games",
+        "music"
+    ],
+    "description": "Take the magic of NomnomNami's Charm Studies, and put it in your browser!",
+    "display": "standalone",
+    "display_override": [
+        "window-controls-overlay",
+        "fullscreen",
+        "minimal-ui"
+    ],
+    "icons": [
+        {
+            "src": "android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "favicon-32x32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        }
+    ],
+    "id": "/charm-studies-lite/",
+    "name": "Charm Studies lite",
+    "orientation": "landscape-primary",
+    "related_applications": [
+        {
+            "platform": "play",
+            "url": "https://play.google.com/store/apps/details?id=com.nomnomnami.charmstudies",
+            "id": "com.nomnomnami.charmstudies"
+        }
+    ],
+    "start_url": "/charm-studies-lite/",
+    "screenshots": [
+        {
+            "src": "the hat.png",
+            "sizes": "1739x1335",
+            "type": "image/png",
+            "form_factor": "wide",
+            "label": "Charm Studies lite desktop screenshot",
+            "description": "Take the magic of NomnomNami's Charm Studies, and put it in your browser!",
+            "platform": "windows"
+        },
+        {
+            "src": "this game is so made for mobile.png",
+            "sizes": "1170x1393",
+            "type": "image/png",
+            "form_factor": "narrow",
+            "label": "Charm Studies lite mobile screenshot",
+            "platform": "ios"
+        }
+    ],
+    "short_name": "C. Studies lite",
+    "theme_color": "#ffdeb8"
+}
